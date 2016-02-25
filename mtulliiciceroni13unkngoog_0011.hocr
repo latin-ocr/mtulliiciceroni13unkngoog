@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni13unkngoog_0011.png"; bbox 0 0 1709 3084; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 623 1010 1044 1067">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 623 1010 1044 1067">
+     <span class='ocr_line' id='line_1_1' title="bbox 623 1010 1044 1067; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 623 1012 676 1067; x_wconf 81' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_2' title='bbox 693 1012 739 1067; x_wconf 90' lang='grc' dir='ltr'><strong>Ο</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 753 1010 822 1067; x_wconf 80' lang='lat' dir='ltr'><strong>L.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 862 1010 1044 1067; x_wconf 79' lang='lat' dir='ltr'>xvn.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 224 1227 1193 1287">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 224 1227 1193 1287">
+     <span class='ocr_line' id='line_1_2' title="bbox 224 1227 1193 1287; baseline -0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 224 1227 659 1285; x_wconf 69' lang='lat' dir='ltr'><strong>Eun-omnum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 699 1242 778 1287; x_wconf 69' lang='lat' dir='ltr'><strong>An</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 813 1228 1193 1285; x_wconf 56' lang='lat' dir='ltr'><strong>Fammuzs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 304 1395 1127 1453">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 304 1395 1127 1453">
+     <span class='ocr_line' id='line_1_3' title="bbox 304 1395 1127 1453; baseline 0.001 -5"><span class='ocrx_word' id='word_1_8' title='bbox 304 1408 472 1452; x_wconf 74' lang='lat' dir='ltr'><strong>mnu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 509 1395 666 1453; x_wconf 83' lang='lat' dir='ltr'>v111.</span> <span class='ocrx_word' id='word_1_10' title='bbox 713 1407 1127 1451; x_wconf 68' lang='lat' dir='ltr'><strong>resumens.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
